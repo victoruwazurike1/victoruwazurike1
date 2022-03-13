@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Uwazurike Victor
-[![trophy](https://github-profile-trophy.vercel.app/?username=uwazurikevictor1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victoruwazurike1" alt="victoruwazurike1" /></a> </p>
 
 <!--
 **victoruwazurike1/victoruwazurike1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
